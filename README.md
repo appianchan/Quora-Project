@@ -12,4 +12,7 @@ Videozz is built with React/Redux on the frontend and GraphQL in the backend.
 
 - There is also a demologin for the user to automatically login with a premade account
 
+**Asking A Question**
+
+**SearchBar**
 
